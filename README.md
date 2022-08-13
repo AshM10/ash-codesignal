@@ -1,6 +1,4 @@
-# ash-codesignal
-
-# algorithm practice
+# ash-codesignal: algorithm practice
 
 - This repository is solely created for my JavaScript Data Structures and Algorithms problem solving via Code Signal. Repository kind of started really late because I've done a few problems on the Arcade already before deciding to document my practice in Github. This readme will constantly be updated as I go through the challenge.
 
